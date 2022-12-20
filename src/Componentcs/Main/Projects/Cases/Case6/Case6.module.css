@@ -1,0 +1,44 @@
+.case {
+    position: absolute;
+    width: 340px;
+    height: 258px;
+    top: 451px;
+}
+
+.image {
+    position: absolute;
+    width: 340px;
+    height: 230px;
+    left: 720px;
+
+    background: url(../../../../../img/case6.png);
+    border-radius: 25px;
+}
+
+.title {
+    position: absolute;
+    width: 300px;
+    height: 17px;
+    position: absolute;
+    left: 730px;
+    top: 235px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.icon {
+    position: absolute;
+    width: 4px;
+    height: 15px;
+    left: 720px;
+    top: 244px;
+    background: #1D905E;
+    border-radius: 15px;
+}

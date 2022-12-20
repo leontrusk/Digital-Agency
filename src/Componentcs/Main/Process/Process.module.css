@@ -1,0 +1,40 @@
+.main {
+    position: absolute;
+    width: 1280px;
+    height: 1300px;
+    top: 2600px;
+
+    background: #191514;
+
+}
+
+.gifbox {
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 81px;
+    top: 75px;
+}
+
+
+.title {
+    position: absolute;
+    width: 380px;
+    height: 64px;
+    left: 110px;
+    top: 80px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+
+

@@ -1,0 +1,298 @@
+.main {
+    position: absolute;
+    width: 1280px;
+    height: 712px;
+    top: 5440px;
+
+    background: #191514;
+}
+
+.gifbox {
+    position: absolute;
+width: 115px;
+height: 115px;
+left: 640px;
+top: 80px;
+}
+
+.title {
+    position: absolute;
+    width: 495px;
+    height: 128px;
+    left: 676px;
+    top: 83px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+.tel {
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 676px;
+top: 255px;
+
+background: url(../../../img/icon_tele.png);
+border-radius: 300px;
+}
+
+.textTel {
+    position: absolute;
+width: 146px;
+height: 40px;
+left: 740px;
+top: 240px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.email {
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 676px;
+top: 315px;
+
+background: url(../../../img/icon_email.png);
+border-radius: 300px;
+}
+
+.textEmail {
+    position: absolute;
+width: 146px;
+height: 40px;
+left: 740px;
+top: 300px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.map {
+    position: absolute;
+width: 495px;
+height: 284px;
+left: 676px;
+top: 370px;
+background: url(../../../img/map.png);
+}
+
+
+.forma {
+    position: absolute;
+width: 520px;
+height: 554px;
+left: 110px;
+top: 104px;
+background: #454646;
+border-radius: 25px;
+}
+
+.labelName {
+    position: absolute;
+width: 37px;
+height: 17px;
+left: 21px;
+top: 90px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.formaName {
+    position: absolute;
+width: 224px;
+height: 40px;
+left: 23px;
+top: 115px;
+border: none;
+outline: none;
+background: #D9D9D9;
+border-radius: 10px;
+}
+
+.labelTel {
+    position: absolute;
+width: 51px;
+height: 17px;
+left: 278px;
+top: 90px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.formaNumber {
+    position: absolute;
+width: 224px;
+height: 40px;
+left: 278px;
+top: 115px;
+border: none;
+outline: none;
+background: #D9D9D9;
+border-radius: 10px;
+}
+
+.labelEmail {
+    position: absolute;
+width: 34px;
+height: 17px;
+left: 23px;
+top: 180px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.formaEmail {
+    position: absolute;
+width: 224px;
+height: 40px;
+left: 22px;
+top: 205px;
+border: none;
+outline: none;
+background: #D9D9D9;
+border-radius: 10px;
+}
+
+.labelSubject {
+    position: absolute;
+width: 55px;
+height: 17px;
+left: 280px;
+top: 180px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.formaSubject {
+    position: absolute;
+width: 224px;
+height: 40px;
+left: 278px;
+top: 205px;
+border: none;
+outline: none;
+background: #D9D9D9;
+border-radius: 10px;
+
+}
+
+.labelMessage {
+    position: absolute;
+width: 57px;
+height: 17px;
+left: 22px;
+top: 268px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+
+.formaMessage {
+    position: absolute;
+width: 481px;
+height: 80px;
+left: 21px;
+top: 293px;
+border: none;
+outline: none;
+background: #D9D9D9;
+border-radius: 15px;
+}
+
+
+.button {
+    position: absolute;
+width: 480px;
+height: 50px;
+left: 21px;
+top: 434px;
+border: none;
+background: #0777FB;
+border-radius: 35px;
+}
+
+.buttonText {
+    position: absolute;
+width: 480px;
+height: 50px;
+left: 45%;
+top: 0px;
+text-decoration: none;
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+
+}
+

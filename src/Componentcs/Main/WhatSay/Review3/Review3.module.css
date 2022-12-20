@@ -1,0 +1,64 @@
+.main {
+    position: absolute;
+    width: 303px;
+    height: 212px;
+    left: 867px;
+    top: 215px;
+
+    background: #454646;
+    border-radius: 25px;
+}
+
+.avatar {
+    position: absolute;
+    width: 50px;
+    height: 46.3px;
+    left: 20px;
+    top: 20px;
+
+    background: url(../../../../img/avatar3.png);
+    border-radius: 300px;
+}
+
+.stars {
+    position: absolute;
+    width: 98.87px;
+    height: 17px;
+    left: 178.8px;
+    top: 43px;
+    background-image: url(../../../../img/stars.png);
+}
+
+.title {
+    position: absolute;
+    width: 102px;
+    height: 19px;
+    left: 20px;
+    top: 71px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+}
+
+.text {
+    position: absolute;
+    width: 261px;
+    height: 102px;
+    left: 20px;
+    top: 93px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #FFFFFF;
+
+}

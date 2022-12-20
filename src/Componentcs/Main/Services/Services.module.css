@@ -1,0 +1,314 @@
+.main {
+    position: absolute;
+    width: 1280px;
+    height: 832px;
+    top: 1300px;
+
+    background: #191514;
+}
+
+.gifbox {
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 78px;
+    top: 260px;
+}
+
+.title {
+    position: absolute;
+    width: 434px;
+    height: 64px;
+    left: 110px;
+    top: 265px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+.description {
+    position: absolute;
+    width: 430px;
+    height: 93px;
+    left: 110px;
+    top: 352px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+}
+
+.button {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 110px;
+    top: 495px;
+
+    background: #0777FB;
+    border-radius: 35px;
+}
+
+.button:hover {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 110px;
+    top: 495px;
+
+    background: #0C5AB6;
+    border-radius: 35px;
+}
+
+.buttonText {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 20px;
+    top: 0px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+.serviceBoxes {
+    position: absolute;
+    width: 520px;
+    height: 683px;
+    left: 650px;
+    top: 124px;
+}
+
+.serviceBox1 {
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    left: 650px;
+    top: 187px;
+
+    background: #454646;
+    border-radius: 25px;
+}
+
+.icon1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+
+    background: url(../../../img/icon1.png);
+    border-radius: 300px;
+}
+
+.boxTitle1 {
+    position: absolute;
+    width: 163px;
+    height: 24px;
+    left: 20px;
+    top: 65px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+
+}
+
+.boxText1 {
+
+    position: absolute;
+    width: 213px;
+    height: 195px;
+    left: 20px;
+    top: 98px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+
+}
+
+
+.serviceBox2 {
+    position: absolute;
+width: 250px;
+height: 300px;
+left: 920px;
+top: 124px;
+background: #454646;
+border-radius: 25px;
+}
+
+.icon2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+    
+    background: url(../../../img/icon2.png);
+    border-radius: 300px;
+}
+
+.boxTitle2 {
+    position: absolute;
+width: 163px;
+height: 24px;
+left: 20px;
+top: 65px;
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+
+
+}
+
+.boxText2 {
+    position: absolute;
+width: 213px;
+height: 195px;
+left: 20px;
+top: 98px;
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+
+}
+
+
+
+.serviceBox3 {
+    position: absolute;
+width: 250px;
+height: 300px;
+left: 650px;
+top: 507px;
+background: #454646;
+border-radius: 25px;
+}
+
+.icon3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+    
+    background: url(../../../img/icon3.png);
+    border-radius: 300px;
+}
+
+.boxTitle3 {
+    position: absolute;
+width: 125px;
+height: 24px;
+left: 20px;
+top: 65px;
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.boxText3 {
+    position: absolute;
+width: 213px;
+height: 126px;
+left: 20px;
+top: 98px;
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+}
+
+.serviceBox4 {
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    left: 920px;
+    top: 444px;
+    background: #454646;
+    border-radius: 25px;
+}
+
+.icon4 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+    
+    background: url(../../../img/icon4.png);
+    border-radius: 300px;
+}
+
+.boxTitle4{
+    position: absolute;
+    width: 48px;
+    height: 24px;
+    left: 20px;
+    top: 65px;
+    
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    
+}
+
+.boxText4 {
+    position: absolute;
+    width: 213px;
+    height: 147px;
+    left: 20px;
+    top: 98px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    
+}
+

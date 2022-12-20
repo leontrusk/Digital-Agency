@@ -1,0 +1,28 @@
+.main {
+    position: absolute;
+    width: 1280px;
+    height: 104px;
+    top: 6150px;
+
+    background: #0777FB;
+}
+
+.text {
+    position: absolute;
+    width: 289px;
+    height: 27px;
+    left: 550px;
+    top: 40px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}

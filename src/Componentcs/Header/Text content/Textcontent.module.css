@@ -1,0 +1,124 @@
+@font-face {
+    font-family: San Francisco Bold; 
+    src: url(../../../fonts/sf-ui-text-bold.ttf),
+}
+
+@font-face {
+    font-family: San Francisco Regular; 
+    src: url(../../../fonts/sf-ui-text-regular.ttf),
+}
+
+.text_content {
+    width: 540px;
+    height: 317px;
+    display: block;
+}
+.title {
+    position: absolute;
+    width: 540px;
+    height: 112px;
+    left: 110px;
+    top: 240px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    animation: text 3s 1;
+    color: #FFFFFF;
+    }
+
+.discription {
+    position: absolute;
+    width: 519px;
+    height: 64px;
+    left: 110px;
+    top: 355px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+}
+
+.button1 {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 110px;
+    top: 492px;
+
+    background: #0777FB;
+    border-radius: 35px;
+
+}
+.button1:hover {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 110px;
+    top: 492px;
+
+    background: #0C5AB6;
+    border-radius: 35px; 
+}
+
+.button2 {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 322px;
+    top: 492px;
+    /* Grey 100 */
+
+    background: #454646;
+    border-radius: 35px;
+}
+.button2:hover {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 322px;
+    top: 492px;
+    /* Grey 100 */
+
+    background: #686969;
+    border-radius: 35px;
+}
+
+.buttonLink {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 40px;
+    top: 0px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+
+}
+
+.gifbox {
+    display: block;
+  height: 115px;
+  width: 115px;
+  margin-top: 200px;
+  margin-left: 72px;
+    
+}

@@ -1,0 +1,65 @@
+.image_boxes {
+    position: absolute;
+width: 430px;
+height: 432px;
+left: 740px;
+top: 181px;
+}
+
+.image_box1 {
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 740px;
+top: 181px;
+
+background: url(../../../img/image_box1.jpg);
+border-radius: 100px 0px 100px 100px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+z-index: 1;
+}
+
+.image_box2 {
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 970px;
+top: 181px;
+
+background: url(../../../img/image_box2.jpg);
+border-radius: 100px 0px 100px 100px;
+z-index: 1;
+}
+
+.image_box3 {
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 740px;
+top: 413px;
+
+background: url(../../../img/image_box3.jpg);
+border-radius: 100px 100px 0px 100px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.image_box4 {
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 970px;
+top: 413px;
+
+background: url(../../../img/image_box4.jpg);
+border-radius: 100px 100px 0px 100px;
+z-index: 1;
+}
+
+.gifbox {
+    position: absolute;
+width: 115px;
+height: 115px;
+left: 900px;
+top: 337px;
+
+}

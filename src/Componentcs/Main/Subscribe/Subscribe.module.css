@@ -1,0 +1,148 @@
+.main {
+    position: absolute;
+    width: 1280px;
+    height: 485px;
+    top: 2124px;
+
+    background: #191514;
+}
+
+.imageboxes {
+    position: absolute;
+    width: 368px;
+    height: 402px;
+    top: 38px;
+
+}
+
+.imagebox1 {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 110px;
+    top: 38px;
+
+    background: url(../../../img/imagebox.png);
+    border-radius: 0px 300px 300px 300px;
+}
+
+.imagebox2 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 278px;
+    top: 240px;
+
+    background: url(../../../img/imagebox1.png);
+    border-radius: 300px 300px 0px 300px;
+}
+
+.gifbox {
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 623px;
+    top: 120px;
+}
+
+.title {
+    position: absolute;
+    width: 514px;
+    height: 128px;
+    left: 650px;
+    top: 123px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+
+
+.text {
+    position: absolute;
+    width: 100px;
+    height: 18px;
+    left: 44px;
+    top: 6px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+
+    color: #D1CDCD;
+}
+
+.button {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 334px;
+    top: 5px;
+    background: #0777FB;
+    border-radius: 35px;
+    border: none;
+}
+
+.button:hover {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 334px;
+    top: 5px;
+    background: #0C5AB6;
+    border-radius: 35px;
+    border: none;
+}
+
+
+.buttonText {
+    position: absolute;
+    width: 149px;
+    height: 50px;
+    top: 15px;
+    left: 18px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #FFFFFF;
+
+}
+
+.formaEmail {
+    color: #D1CDCD;
+    border: none;
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    top: 5px;
+    left: 10px;
+    background: #454646;
+    border-radius: 50px;
+    border: none;
+outline: none;
+}
+    
+
+.subscribe {
+    position: absolute;
+width: 520px;
+height: 60px;
+left: 650px;
+top: 300px;
+
+background: #454646;
+border-radius: 50px;
+
+}

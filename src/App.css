@@ -1,0 +1,8 @@
+.App {
+  @media screen {
+    min-width: 9900px;
+    flex: 0 0 75%;
+  }
+  width: 100%;
+}
+

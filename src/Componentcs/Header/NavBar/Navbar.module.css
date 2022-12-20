@@ -1,0 +1,120 @@
+@font-face {
+    font-family: San Francisco Bold; 
+    src: url(../../../fonts/sf-ui-text-bold.ttf),
+}
+
+@font-face {
+    font-family: San Francisco Regular; 
+    src: url(../../../fonts/sf-ui-text-regular.ttf),
+}
+
+
+.navbar {
+    position: absolute;
+    width: 1060px;
+    height: 50px;
+    top: 33px;
+
+}
+
+.logo {
+    position: absolute;
+    width: 94px;
+    height: 30px;
+    left: 110px;
+    top: 48px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    background: linear-gradient(180deg, #0777FB 46.41%, rgba(255, 255, 255, 0.82) 84.44%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.navmenu {
+    position: absolute;
+    width: 333px;
+    height: 21px;
+    left: 510px;
+    top: 48px;
+    padding: 10px;
+}
+
+.navLink {
+    width: 48px;
+    height: 21px;
+    left: 510px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin: 20px;
+}
+.navLink:hover {
+    width: 48px;
+    height: 21px;
+    left: 510px;
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 21px;
+    color: #0777FB;
+    margin: 20px;
+}
+.button {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 990px;
+    top: 33px;
+
+    /* Blue 100 */
+
+    background: #0777FB;
+    border-radius: 35px;
+}
+.button:hover {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 990px;
+    top: 33px;
+
+    /* Blue 100 */
+
+    background: #0C5AB6;
+    border-radius: 35px;
+}
+.buttonText {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 23px;
+    top: 0px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+color: #FFFFFF;
+
+}
+

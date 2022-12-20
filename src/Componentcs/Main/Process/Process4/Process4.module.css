@@ -1,0 +1,71 @@
+.process {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 110px;
+    top: 610px;
+    background: #454646;
+    border-radius: 25px;
+}
+
+.processIcon {
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 20px;
+top: 30px;
+
+background: url(../../../../img/processIcon4.png);
+border-radius: 300px;
+}
+
+.processTitle {
+    position: absolute;
+    width: 95px;
+    height: 24px;
+    left: 20px;
+    top: 81px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
+
+.processDescription {
+    position: absolute;
+    width: 266px;
+    height: 129px;
+    left: 20px;
+    top: 113px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #FFFFFF;
+
+}
+
+.number {
+    position: absolute;
+    width: 13px;
+    height: 24px;
+    left: 268px;
+    top: 13px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    background: linear-gradient(180deg, #0777FB 0%, #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

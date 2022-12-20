@@ -1,0 +1,165 @@
+@font-face {
+    font-family: San Francisco Bold; 
+    src: url(../../../fonts/sf-ui-text-bold.ttf),
+}
+
+@font-face {
+    font-family: San Francisco Regular; 
+    src: url(../../../fonts/sf-ui-text-regular.ttf),
+}
+
+
+.main {
+    position: absolute;
+    width: 1280px;
+    height: 605px;
+    top: 705px;
+
+    background: #191514;
+}
+
+.imagebox {
+    position: absolute;
+    width: 520px;
+    height: 523px;
+
+
+}
+
+.image1 {
+    position: absolute;
+    width: 520px;
+    height: 523px;
+    left: 110px;
+    top: 30px;
+
+    background: url(../../../img/image1.png);
+    border-radius: 0px 255px 255px 255px;
+}
+
+.image2 {
+    position: absolute;
+    width: 184px;
+    height: 184px;
+    left: 446px;
+    top: 369px;
+
+    /* Green */
+
+    background: #1D905E;
+    border-radius: 100px 100px 0px 100px;
+}
+
+.textbox {
+    position: absolute;
+    width: 142px;
+    height: 109px;
+    left: 21px;
+    top: 29px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.content {
+    position: absolute;
+    width: 450px;
+    height: 370px;
+
+}
+
+.title {
+    position: absolute;
+    width: 294px;
+    height: 64px;
+    left: 720px;
+    top: 141px;
+
+    font-family: 'SF UI Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+.description {
+    position: absolute;
+width: 450px;
+height: 187px;
+left: 720px;
+top: 228px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+.button {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 720px;
+    top: 461px;
+    
+    background: #0777FB;
+    border-radius: 35px;
+}
+
+.button:hover {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 720px;
+    top: 461px;
+    
+    background: #0C5AB6;
+    border-radius: 35px;
+}
+
+.buttonText {
+    position: absolute;
+width: 180px;
+height: 50px;
+left: 15px;
+top: 0px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+text-decoration: none;
+
+color: #FFFFFF;
+
+}
+
+.gifbox {
+position: absolute;
+width: 115px;
+height: 115px;
+left: 700px;
+top: 135px;
+}
